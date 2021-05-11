@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Assign:jar">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="Assign.jar">
+      <element id="module-output" name="Assign" />
+      <element id="module-output" name="cal-api" />
+      <element id="module-output" name="cal-impl" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.13.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.13.5-sources.jar" path-in-jar="/" />
+      <element id="library" level="project" name="scala-sdk-2.13.5" />
+      <element id="library" level="project" name="scala-sdk-2.13.51" />
+      <element id="library" level="project" name="scala-sdk-2.13.52" />
+      <element id="library" level="application" name="scala-sdk-2.13.5" />
+    </root>
+  </artifact>
+</component>
